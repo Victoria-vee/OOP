@@ -10,4 +10,4 @@ This system allows student to register courses required for their major. it allo
 
 ## UML Class Diagram of the course registration system
 
-<img src="Svg.drawio.svg" alt="UML diagram of the course registration system"/>
+<img src="Classdiagram.drawio.svg" alt="UML diagram of the course registration system"/>
